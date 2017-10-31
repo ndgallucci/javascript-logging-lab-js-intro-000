@@ -1,2 +1,3 @@
-console.log ("This is as easy as it will get.")
-console.warn("Will this work.")
+Console.log("Good night.")
+console.warn("Why won't this work.")
+console.error("HALP!")
